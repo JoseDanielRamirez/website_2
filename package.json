@@ -1,4 +1,13 @@
 {
+  "name": "website_2",
+  "version": "1.0.0",
+  "homepage": "https://josedanielramirez.github.io/website_2/",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "gh-pages": "^5.0.0"
   }
