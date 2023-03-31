@@ -1,7 +1,7 @@
 {
   "name": "website_2",
   "version": "1.0.0",
-  "description": "",
+  "homepage": "https://josedanielramirez.github.io/website_2/",
   "scripts": {
     "deploy": "gh-pages -d ."
   },
